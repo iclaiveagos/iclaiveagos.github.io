@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iclaiveagos.github.io/sitemap
+Sitemap: https://iclaiveagos.github.io/app/sitemap
+Sitemap: https://iclaiveagos.github.io/assets/sitemap
+Sitemap: https://iclaiveagos.github.io/css/sitemap
+Sitemap: https://iclaiveagos.github.io/includes/sitemap
+Sitemap: https://iclaiveagos.github.io/item/sitemap
+Sitemap: https://iclaiveagos.github.io/src/sitemap
